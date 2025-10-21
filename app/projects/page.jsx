@@ -1,3 +1,4 @@
+"use client";
 import React from "react";
 import OurProjects from "./components/OurProjects";
 import { MotionSlideIn } from "../lib/FramerAnimations";
