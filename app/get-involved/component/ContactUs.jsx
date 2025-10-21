@@ -19,7 +19,7 @@ const ContactUs = () => {
                 href="mailto:info@etiekafoundation.org"
                 className="text-background hover:underline"
               >
-                info@etiekafoundation.org
+                TBD
               </a>
             </div>
             <div>
@@ -28,12 +28,11 @@ const ContactUs = () => {
                 href="tel:+1234567890"
                 className="text-background hover:underline"
               >
-                +1 (234) 567-890
+                TBD
               </a>
             </div>
             <div>
-              <span className="font-semibold">Address:</span> 123 Foundation
-              Lane, Community City, Country
+              <span className="font-semibold">Address:</span>TBD
             </div>
           </div>
         </section>
